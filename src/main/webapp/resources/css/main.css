@@ -1,0 +1,47 @@
+.ui-layout-pane {
+	padding: 0px;
+}
+
+#title-bar {
+	margin: 0px;
+}
+
+.ui-layout-graph-pane {
+	overflow: hidden
+}
+
+.ui-layout-center-center-west {
+	overflow-x: hidden
+}
+
+.ui-layout-center-center-north {
+    overflow: hidden
+}
+
+.graph_title {
+	
+}
+
+.graph_legend {
+}
+
+.graph_chart_container {
+	
+}
+
+.graph_chart {
+	position: relative;
+    left: 40px;
+}
+
+.graph_x_axis {
+    margin-left: 40px;
+}
+
+.graph_y_axis {
+	position: absolute;
+    top: 35px; /* height of graph title (<h5> in bootstrap) */
+    bottom: 0;
+    width: 40px;
+}
+
