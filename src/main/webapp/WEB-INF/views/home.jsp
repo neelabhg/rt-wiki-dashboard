@@ -118,7 +118,7 @@
 			<div class="modal-body">
 			    
 			    <p>
-				    The Wikimedia Foundation publishes a lot of open data, available <a href="http://meta.wikimedia.org/wiki/Research:Data">here</a>.
+				    The Wikimedia Foundation publishes a lot of open data, available <a target="_blank" href="http://meta.wikimedia.org/wiki/Research:Data">here</a>.
 				    They also publish live Recent changes feeds through <abbr title="Internet Relay Chat">IRC</abbr> which show edits on Wikimedia wikis automatically as they happen.
 				    <br />
 				    Here, those edits made on Wikipedia English by anonymous (unregistered) users are shown.
@@ -126,15 +126,16 @@
 				    Only anonymous edits are shown because the location of an edit is identified from the IP address of the user.
 				    The IP address is only included in the IRC feed if the user is unregistered; if the user is registered, the username is shown instead.
 				    <br />
-				    Visit the <a href="https://github.com/neelabhg/rt-wiki-dashboard">project page on GitHub</a> to look at the implementation details along with the source code.
+				    Visit the <a target="_blank" href="https://github.com/neelabhg/rt-wiki-dashboard">project page on GitHub</a> to look at the implementation details along with the source code.
 				    <br />
-                    Also see <a href="http://hatnote.com/">Hatnote</a>, another great Wikipedia Recent Changes Map.
+                    Also see <a target="_blank" href="http://hatnote.com/">Hatnote</a>, another great Wikipedia Recent Changes Map.
 			    </p>
+				<hr />
                 <small>
-                    &copy; 2013 <a href="http://neelabhgupta.com/">Neelabh Gupta</a>
+                    &copy; 2013 <a target="_blank" href="http://neelabhgupta.com/">Neelabh Gupta</a>
                     <br />
                     This project includes GeoLite2 data created by MaxMind, available from
-                    <a href="http://www.maxmind.com">http://www.maxmind.com</a>.
+                    <a target="_blank" href="http://www.maxmind.com">http://www.maxmind.com</a>.
                 </small>
                 
 			</div>
