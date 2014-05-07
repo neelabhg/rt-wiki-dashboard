@@ -1,7 +1,7 @@
 Real Time Wiki Edits Dashboard
 =================
 
-This is a web application showing recent edits to Wikipedia as they happen in real time.
+A web application showing recent edits to Wikipedia as they happen in real time.
 
 Developed by [Neelabh Gupta][0].
 More information can be found [here][1].
